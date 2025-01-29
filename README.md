@@ -22,7 +22,7 @@ This DIY build creates a robust wireless security toolkit that includes:
 
 ## Get Started
 ### Source Materials
-- 2 x 7 [port USB Hub](https://www.amazon.com.au/Splitter-Aluminum-Extender-MacBook-HA-7U/dp/B0DN17BVVD)
+- 2 x [7 port USB Hub](https://www.amazon.com.au/Splitter-Aluminum-Extender-MacBook-HA-7U/dp/B0DN17BVVD)
 - 14 x [NetCard AR9271 USB WiFi Adaptor With 2dbi Antenna](https://a.aliexpress.com/_mKXkHMR)
 
 ## Instructions
