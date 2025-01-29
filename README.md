@@ -27,9 +27,10 @@ This DIY build creates a robust wireless security toolkit that includes:
 
 ## Instructions
 1. Print the case which i've provided in the instructions
-2. Put all the USB WiFi devices into the hubs
-3. Insert it all into the case
-4. Put some cable ties around it if you want to hold it in but it's not really needed
+2. Remove all the WiFi devices from the enclosure they came in
+3. Put all the USB WiFi devices into the hubs
+4. Insert it all into the case
+5. Put some cable ties around it if you want to hold it in but it's not really needed
 
 ## Images
 ### Finished Product
